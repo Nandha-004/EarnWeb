@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nandha-004.github.io/EarnWeb/sitemap.xml
